@@ -1,1 +1,0 @@
-/Users/hectorreyes/.agents/skills/git-commit-formatter/SKILL.md

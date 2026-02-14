@@ -1,1 +1,0 @@
-/Users/hectorreyes/.agents/skills/find-skills/SKILL.md
