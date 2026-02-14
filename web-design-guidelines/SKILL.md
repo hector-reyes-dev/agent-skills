@@ -1,0 +1,1 @@
+/Users/hectorreyes/.agents/skills/web-design-guidelines/SKILL.md
